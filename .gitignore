@@ -102,6 +102,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+<<<<<<< HEAD
 
 # VSCode project files
 .vscode/
@@ -122,3 +123,5 @@ students/etwum/lesson09/.idea/workspace.xml
 students/etwum/lesson09/.idea/modules.xml
 students/etwum/lesson09/.idea/misc.xml
 students/etwum/lesson09/.idea/lesson09.iml
+=======
+>>>>>>> parent of 9916153... Update .gitignore
