@@ -1,1 +1,0 @@
-Python code for Self Paced Online Python Certificate

@@ -1,1 +1,0 @@
-Finish slicing exercise 02/04/2018

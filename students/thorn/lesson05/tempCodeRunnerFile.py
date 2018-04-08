@@ -1,2 +1,0 @@
-
-langs = ['java', 'c', 'python']

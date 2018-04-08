@@ -1,8 +1,0 @@
-Dear {name},
-
-        Thank you for your very kind donation of ${amount:.2f}.
-
-        It will be put to very good use.
-
-                       Sincerely,
-                          -Zhuojing Xie
