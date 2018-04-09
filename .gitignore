@@ -128,3 +128,9 @@ students/etwum/lesson09/.idea/lesson09.iml
 =======
 >>>>>>> parent of 9916153... Update .gitignore
 >>>>>>> parent of ef06456... Merge branch 'master' of https://github.com/UWPCE-PythonCert-ClassRepos/Self_Paced-Online
+<<<<<<< HEAD
+=======
+students/alexLaws/lesson05/mailroom.py
+students/alexLaws/lesson05/except_test.py
+students/alexLaws/lesson05/except_exercise.py
+>>>>>>> parent of 117db13... fix
