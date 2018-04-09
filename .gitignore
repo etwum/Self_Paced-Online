@@ -1,9 +1,6 @@
 # Mac files
 .DS_Store
 
-# PyCharm files
-.idea/
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -108,4 +105,26 @@ ENV/
 
 # VSCode project files
 .vscode/
+<<<<<<< HEAD
 *.txt
+=======
+students/etwum/lesson06/.idea/lesson06.iml
+students/etwum/lesson06/.idea/misc.xml
+students/etwum/lesson06/.idea/modules.xml
+students/etwum/lesson06/.idea/vcs.xml
+students/etwum/lesson06/.idea/workspace.xml
+students/etwum/lesson07/.idea/workspace.xml
+students/etwum/lesson07/.idea/modules.xml
+students/etwum/lesson07/.idea/misc.xml
+students/etwum/lesson07/.idea/lesson07.iml
+students/etwum/lesson08/.idea/workspace.xml
+students/etwum/lesson08/.idea/modules.xml
+students/etwum/lesson08/.idea/misc.xml
+students/etwum/lesson08/.idea/lesson08.iml
+students/etwum/lesson09/.idea/workspace.xml
+students/etwum/lesson09/.idea/modules.xml
+students/etwum/lesson09/.idea/misc.xml
+students/etwum/lesson09/.idea/lesson09.iml
+=======
+>>>>>>> parent of 9916153... Update .gitignore
+>>>>>>> parent of ef06456... Merge branch 'master' of https://github.com/UWPCE-PythonCert-ClassRepos/Self_Paced-Online
