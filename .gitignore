@@ -1,6 +1,9 @@
 # Mac files
 .DS_Store
 
+# PyCharm files
+.idea/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -105,8 +108,8 @@ ENV/
 
 # VSCode project files
 .vscode/
-<<<<<<< HEAD
 *.txt
+<<<<<<< HEAD
 =======
 students/etwum/lesson06/.idea/lesson06.iml
 students/etwum/lesson06/.idea/misc.xml
@@ -134,3 +137,5 @@ students/alexLaws/lesson05/mailroom.py
 students/alexLaws/lesson05/except_test.py
 students/alexLaws/lesson05/except_exercise.py
 >>>>>>> parent of 117db13... fix
+=======
+>>>>>>> parent of 8431f21... Revert "Merge branch 'master' of https://github.com/UWPCE-PythonCert-ClassRepos/Self_Paced-Online"
